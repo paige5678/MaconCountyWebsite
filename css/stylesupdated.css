@@ -72,14 +72,14 @@ body {
             font-weight: 700;
             font-style: normal;
             color: white;
-            text-shadow: 2px 2px 4px #000000
+            text-shadow: 2px 2px 20px #000000
           }
     
       
       .herooverlay p {
         font-size: 3vw;
         color: white;
-        text-shadow: 2px 2px 4px #000000
+        text-shadow: 2px 2px 20px #000000
       }
       
       .popular {

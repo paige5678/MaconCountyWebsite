@@ -227,3 +227,7 @@ justify-content: center;
        header {
         background-color: #000000;
        }
+       .hero-image {
+        opacity: .75;
+        min-height:100%;
+       }

@@ -53,6 +53,8 @@ body {
     max-height: 500px;
 }
 
+
+
 .herooverlay {
         z-index: 12;
         position: absolute;
@@ -70,12 +72,14 @@ body {
             font-weight: 700;
             font-style: normal;
             color: white;
+            text-shadow: 2px 2px 4px #000000
           }
     
       
       .herooverlay p {
         font-size: 3vw;
         color: white;
+        text-shadow: 2px 2px 4px #000000
       }
       
       .popular {
@@ -121,21 +125,7 @@ body {
     
 }
 
-#features-two .popular {
-    text-align:center;
-    font-family: "Alegreya Sans", sans-serif;
-            font-weight: 700;
-            font-style: normal;
-            font-size: 2rem;
-            color: 2c5655;
-            padding-top: 30px;
-            padding-bottom: 5px;
-}
 
-#features-two{
-    padding-top: 0px;
-    
-}
 
 
 .learn {
@@ -225,3 +215,4 @@ justify-content: center;
 
             float:right;
         }
+

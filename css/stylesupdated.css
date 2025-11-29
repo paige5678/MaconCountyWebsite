@@ -121,6 +121,23 @@ body {
     
 }
 
+#features-two .popular {
+    text-align:center;
+    font-family: "Alegreya Sans", sans-serif;
+            font-weight: 700;
+            font-style: normal;
+            font-size: 2rem;
+            color: 2c5655;
+            padding-top: 30px;
+            padding-bottom: 5px;
+}
+
+#features-two{
+    padding-top: 0px;
+    
+}
+
+
 .learn {
     margin-bottom: 40px;
 

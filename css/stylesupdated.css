@@ -169,6 +169,13 @@ justify-content: center;
         float:left;
     }
 
+    #image-one {
+        float:left;
+    }
+    #image-two {
+        float:left;
+    }
+
     .bio {
         padding: 30px;
     }

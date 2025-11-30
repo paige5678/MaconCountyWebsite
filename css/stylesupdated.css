@@ -2,6 +2,10 @@ head {
     background-color: white;
 }
 
+a:link {
+    color: #2c5655;
+  }
+  
 .navbar {
     background-color: #2c5655;
 }
@@ -241,10 +245,6 @@ justify-content: center;
         color: #2c5655;
       }
       
-      
-      a:visited {
-        color: #5a81ba;
-      }
       
       
       

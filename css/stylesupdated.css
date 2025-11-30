@@ -67,7 +67,7 @@ body {
       }
       
       .herooverlay h1 {
-        font-size: 7vw;
+        font-size: 6.5vw;
             font-family: "Alegreya Sans", sans-serif;
             font-weight: 700;
             font-style: normal;
@@ -90,9 +90,7 @@ body {
     
       }
       
-      @media (max-width: 650px){
-        .herooverlay h1 {
-          font-size: 6vw;}}
+      
 
           @media (max-width: 650px){
             .herooverlay p {

@@ -91,9 +91,13 @@ body {
     
       }
       
-      @media (max-width: 650px){
+      @media (max-width: 991px){
         .herooverlay h1 {
           font-size: 5.5vw;}}
+
+          @media (max-width: 771px){
+            .herooverlay h1 {
+              font-size: 5vw;}}
 
           @media (max-width: 650px){
             .herooverlay p {

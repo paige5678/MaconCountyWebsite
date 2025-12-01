@@ -5,7 +5,13 @@ head {
 
 .navbar {
     background-color: #2c5655;
+    
 }
+
+.navbar a:link {
+    color:white;
+}
+
 .btn {
     background-color: #cca648;
     color: black;

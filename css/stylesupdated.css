@@ -98,29 +98,35 @@ body {
     
       }
       
-      @media (max-width: 991px){
-        .herooverlay h1 {
-          font-size: 5.5vw;}}
+      
 
-          @media (max-width: 771px){
+    @media (max-width: 771px){
             .herooverlay h1 {
-              font-size: 5vw;}}
+              font-size: 6vw;}}
 
-          @media (max-width: 650px){
+     @media (max-width: 650px){
             .herooverlay p {
               display: none;}}
-    
+
+    @media (min-width: 1500px){
+                .herooverlay h1 {
+                  font-size: 4vw;}}
+     @media (min-width: 2000px){
+                    .herooverlay h1 {
+                      font-size: 3.75vw;}}
+     @media (min-width: 2000px){
+    .herooverlay p {
+            display: none;}}
               
 
-                  @media (max-width: 650px){
-                    .herooverlay .btn {
-                      font-size: 2vw;}}
+    @media (max-width: 650px){
+            .herooverlay .btn {
+             font-size: 2vw;}}
 
                       
 
-                  @media (max-width: 300px){
-                    .herooverlay a {
-                      display:none;}}
+ 
+        
                   
 
 #features .popular {

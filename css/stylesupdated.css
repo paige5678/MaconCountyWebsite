@@ -250,7 +250,18 @@ justify-content: center;
         min-height:100%;
        }
 
-      
+     .site-title{
+            font-size: 2.75vw;
+                font-family: "Alegreya Sans", sans-serif;
+                font-weight: 700;
+                font-style: normal;
+                color: white;
+                padding-left: 10px;}
+                
+     @media (max-width: 771px){
+     .site-title{
+        display: none;
+     }}            
       
       
       

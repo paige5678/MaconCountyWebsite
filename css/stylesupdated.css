@@ -294,3 +294,6 @@ color:white;     }
     text-decoration: none;
     color:white;     } 
 
+footer .container {
+    padding: 30px;
+}
